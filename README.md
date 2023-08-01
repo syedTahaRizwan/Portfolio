@@ -44,13 +44,13 @@ In this mode, two teams of players compete to capture the other team's flag and 
 Free for All: 
 In this mode, all players are on their own and must fight to be the last player standing. The player with the most kills at the end of the round wins.
 
-#Main Menu:
+# Main Menu:
 ![image](https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/0a63c7f7-6a3f-4f60-a55b-7a1ad00adb20)
 
-#LobbyScreen:
+# LobbyScreen:
 ![image](https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/27c05a10-835e-4da1-a4b2-efe129a6ecaf)
 
-#GamePlay:
+# GamePlay:
 ![image](https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/86f76965-07ff-46df-a3fe-97ba8dfbffaf)
 
 ![image](https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/584352ef-4b78-43f6-bb3e-770f2a6b915c)
