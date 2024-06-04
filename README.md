@@ -2,7 +2,28 @@
 # Hi, 
 I am a dedicated and passionate individual who believes in the power of hard work and continuous learning. With each passing day, I strive to expand my knowledge and skills, embracing new opportunities to grow both personally and professionally. Joining your esteemed company would provide me with an ideal platform to further enhance my capabilities while contributing to the company's productivity and success. 
 Following are the Projects that I have worked on recently:
-# 1. EMBERSPACE
+
+# 1. Exodus
+Exodus is a 3D RTS Game with 3 Races (HOPE, BIOLIFE AND SERN), The player selects one race and Engages in a multiplayer environment gathering resources, Attacking enemy bases and much much more. The End Goal is to conquer the Other player's base.
+
+# Gameplay Video
+https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/2675686e-cf0d-48f5-8c41-19898efb9f0b
+
+
+# 2. Fighting Game
+This is a $200 project for my client, It is single pact action game in which player fight with advanced AI. The game is similar to Tekken 3D action You can make combos and Have a Fatality attack (Ultimate Ability). 
+
+# Gameplay Video
+https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/9fb68387-9e1e-4fec-b61c-4aa6af0c2153
+
+# 3. Pixel Art
+This is a 2D Turn Based action game similar to Rock paper scissors instead we have attack defense and reload mechanism, THere are few characters and weapons that the player can choose. With AI also involved in it.
+
+
+# Gameplay Video
+https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/1d831207-bba3-4feb-b180-60d77175e557
+
+# 4. EMBERSPACE
 Emberspace is an exciting online 3D multiplayer first-person shooter game set in a captivating Outer Space theme. The game features lobby sessions connected through Steam and includes an innovative in-game NFT marketplace. Players are divided into two categories: Aliens and Elite Force.
 
 In this immersive gameplay experience, scientists have created a highly potent missile capable of annihilating entire planets. The Aliens seek to capture this destructive weapon, while the Elite Force's mission is to defend the missile and eliminate all alien threats. Adding to the challenge, an AI-controlled celestial entity roams the game, mercilessly targeting any species that crosses its path.
@@ -34,7 +55,7 @@ Emberspace offers an action-packed and strategic gaming environment where player
 ![image](https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/991afa3c-59d6-45c8-97b0-7a26da946cc1)
 
 
-# 2. SnowBall Fight
+# 5. SnowBall Fight
 Snowball Fight is a single-player third-person shooter game where players battle against AI-controlled bots using snowballs. There are several game modes to choose from, including Capture the Flag and Free for All.
 
 Here is a more detailed explanation of each game mode:
@@ -61,7 +82,7 @@ In this mode, all players are on their own and must fight to be the last player 
 
 
 
-# 3. Game of Life
+# 6. Game of Life
 Game of Life is a multiplayer card game that runs on the Ethereum blockchain. Players can create or download their own cards as non-fungible tokens (NFTs), which can be used in the game as cards with special abilities. The game uses NFT metadata to extract the images for the cards.
 
 Here is a more detailed explanation of how the game works:
@@ -70,7 +91,7 @@ In Game of Life, players can use NFTs to create their own custom cards. These ca
 
 The game uses NFT metadata to extract the images for the cards. This means that the images for the cards are stored on the blockchain, which makes them tamper-proof and secure.
 
-# 4. GrapLink
+# 7. GrapLink
 GrapLink, a cutting-edge 3D mobile single-player game that challenges your skills and wits. In this captivating gaming experience, players will be immersed in a vibrant 3D environment where they must harness the power of advanced grappling mechanics.
 
 Set within a dynamic and ever-evolving game world, GrapLink invites players to interact with a myriad of 3D objects strategically placed throughout each level. Your mission? To navigate this intricate landscape, mastering the art of grappling to swing, traverse, and explore like never before.
@@ -80,6 +101,11 @@ As you embark on this solo adventure, you'll find yourself racing against the cl
 ![thumbnail](https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/68eef982-bb42-4f3e-b722-2793274199eb)
 
 https://youtu.be/d-9lWMBJ-tY?si=3bV3t8Vaj8zcQPza
+
+
+
+
+
 
 
 
