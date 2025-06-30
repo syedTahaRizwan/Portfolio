@@ -9,6 +9,32 @@ Exodus is a 3D RTS Game with 3 Races (HOPE, BIOLIFE AND SERN), The player select
 # Gameplay Video
 https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/2675686e-cf0d-48f5-8c41-19898efb9f0b
 
+# 1.1 BeatemUp
+BeatemUp is a fast-paced, top-down action roguelike inspired by the combat style of Hades, built using Unreal Engine’s Gameplay Ability System (GAS) to deliver dynamic and responsive melee and ranged combat experiences.
+
+# Gameplay Video
+https://github.com/user-attachments/assets/c861e11f-a946-44db-80e2-3ca699188e4c
+
+# 1.2 Operation Harsh DoorStop
+Operation: Harsh Doorstop (OHD) is a community-driven, open-source tactical first-person shooter built on Unreal Engine. Inspired by titles like Project Reality and Squad, OHD focuses on delivering military simulation gameplay without microtransactions or paid content, making it fully accessible and moddable for both players and developers.
+
+# Gameplay Video
+
+https://github.com/user-attachments/assets/a0b3a4df-d913-443b-9f85-462a1ed642bf
+
+# 1.3 Dopameme
+Dopameme is a Crypto Currency Driven Action packed Vehicle Combat 3D Game where Mechanics are very simialr to Twisted Metal.
+
+# Gameplay Images 
+
+![SS2](https://github.com/user-attachments/assets/8e7daad8-7a8d-4936-a35c-1d7285ebf86e)
+![SS1](https://github.com/user-attachments/assets/33a3570c-05da-445f-a9e2-797e9286c66d)
+![SS6](https://github.com/user-attachments/assets/a50a7742-c40f-4bb2-ab34-33d5b1cf34f3)
+![SS5](https://github.com/user-attachments/assets/b07c371c-48eb-4a28-87a7-3d7ecddb489e)
+![SS4](https://github.com/user-attachments/assets/8978b1d8-2823-4aed-8f44-e27d40960804)
+![SS3](https://github.com/user-attachments/assets/4db44686-5959-4966-bdab-14ff8961d744)
+
+
 
 # 2. Fighting Game
 This is a $200 project for my client, It is single pact action game in which player fight with advanced AI. The game is similar to Tekken 3D action You can make combos and Have a Fatality attack (Ultimate Ability). 
