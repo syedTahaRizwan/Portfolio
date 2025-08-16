@@ -34,7 +34,10 @@ Dopameme is a Crypto Currency Driven Action packed Vehicle Combat 3D Game where 
 ![SS4](https://github.com/user-attachments/assets/8978b1d8-2823-4aed-8f44-e27d40960804)
 ![SS3](https://github.com/user-attachments/assets/4db44686-5959-4966-bdab-14ff8961d744)
 
+# 1.4 Melody Of The Forgotten
+“Melody of the Forgotten” is a, first-person post-apocalyptic exploration game set in a decaying forest. Players are guided by a mystical bird companion on a quest to find the missing pieces of an ancient bamboo flute. The forest, once full of life, is now withered and silent, its magic lost to time. As players collect flute pieces scattered across different biomes like a swamp, ancient ruins, and a watchtower, they slowly piece together the melody that can restore the land. The bird offers guidance, lore, and subtle emotional cues, functioning both as a narrator and a companion. Once all flute pieces are collected, a cinematic plays that shows the rebirth of the forest as the music returns life to the world."
 
+https://github.com/user-attachments/assets/6c762d0c-52b0-4267-98c8-4c2cf4e126ea
 
 # 2. Fighting Game
 This is a $200 project for my client, It is single pact action game in which player fight with advanced AI. The game is similar to Tekken 3D action You can make combos and Have a Fatality attack (Ultimate Ability). 
