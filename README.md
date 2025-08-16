@@ -23,7 +23,16 @@ Operation: Harsh Doorstop (OHD) is a community-driven, open-source tactical firs
 https://github.com/user-attachments/assets/a0b3a4df-d913-443b-9f85-462a1ed642bf
 
 # 1.3 Dopameme
-Dopameme is a Crypto Currency Driven Action packed Vehicle Combat 3D Game where Mechanics are very simialr to Twisted Metal.
+In Dopameme, players control weaponized cars driven by monkeys in fast-paced combat arenas. The game combines explosive vehicular combat with a play-to-earn model, rewarding top players in competitive matches using the Dopameme cryptocurrency.
+
+Key Contributions & Features:
+
+Developed multiplayer gameplay systems with replication and real-time networking.
+Designed diverse maps (Egyptian pyramids, winter landscapes, cityscapes, forests), optimized for smooth mobile performance.
+Implemented customizable vehicles with mounted weapons (turrets, miniguns, rocket systems).
+Built an AI-driven opponent system with unique driving and combat behaviors.
+Created a satirical UI/UX with meme-inspired visuals and explosive effects to reinforce brand identity.
+Supported both free-to-play and crypto-competitive modes, balancing fun accessibility with blockchain incentives.
 
 # Gameplay Images 
 
@@ -39,8 +48,44 @@ Dopameme is a Crypto Currency Driven Action packed Vehicle Combat 3D Game where 
 
 https://github.com/user-attachments/assets/6c762d0c-52b0-4267-98c8-4c2cf4e126ea
 
+# 1.5 NewRealmVerse
+A client-side WebGL virtual world built in Unreal Engine, seamlessly integrated with real-time website transactions.
+
+NewRealmVerse is an immersive browser-based experience where users can explore a virtual art gallery, real estate showroom, and shopping mall directly from their web browser. Unlike traditional Pixel Streaming, it was optimized for client-side WebGL performance, enabling accessibility across devices without server-side rendering.
+
+Key Contributions & Features:
+
+Developed a fully interactive WebGL environment, ensuring smooth performance and cross-platform accessibility.
+Built real-time website-to-game synchronization.
+Designed persistent interactive environments where players could explore and interact.
+Focused on scalability and performance optimization, ensuring seamless user experience without streaming delays.
+Integrated immersive UI/UX flows, bridging web interfaces with in-game mechanics for a unified experience.
+
+
+https://github.com/user-attachments/assets/31b21bc1-79b9-47fe-bf7a-4e54668be0de
+
+# 1.6 Bylor VR Construction Course
+A fully interactive VR training solution built in Unreal Engine for construction safety and tool handling.
+Developed a VR training application that allows workers to practice using construction tools in a safe, immersive environment. The course simulates real-world construction scenarios, enabling hands-on learning with motion controllers and head-mounted displays (HMDs).
+
+Key Contributions & Features:
+
+Designed and developed a VR training framework using Unreal Engine, focusing on realistic tool interactions and physics.
+Implemented interactive modules that simulate construction tasks, equipment usage, and safety procedures.
+Integrated motion controller support for accurate hand-tracking and tool handling.
+Created a scalable system to support additional training modules and scenarios.
+Optimized performance for smooth VR experience, ensuring usability across multiple HMD platforms.
+Enhanced learning engagement and retention through interactive tutorials, feedback systems, and immersive environments.
+
+https://github.com/user-attachments/assets/d1cc550c-9eb1-4d89-939b-8f43976d0ea4
+
+
 # 2. Fighting Game
 This is a $200 project for my client, It is single pact action game in which player fight with advanced AI. The game is similar to Tekken 3D action You can make combos and Have a Fatality attack (Ultimate Ability). 
+
+
+
+
 
 # Gameplay Video
 https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/9fb68387-9e1e-4fec-b61c-4aa6af0c2153
