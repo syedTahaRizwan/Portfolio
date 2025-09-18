@@ -42,6 +42,9 @@ Operation: Harsh Doorstop is more than just a game — it’s a platform for pla
 
 # Gameplay Trailer:
 
+<img width="796" height="751" alt="image" src="https://github.com/user-attachments/assets/30e23c6b-1190-42a4-b801-3bd6ca9f3a54" />
+
+
 https://www.youtube.com/watch?v=5rGm5QNZ0zo
 
 
