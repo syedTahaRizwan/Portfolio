@@ -18,7 +18,7 @@ Reviving the Magic of RTS – Classic elements like base-building, unit microman
 With its mix of strategic depth, satirical storytelling, and genre innovation, Exodus: Black Sun offers both long-time RTS fans and new players a chance to experience the excitement of commanding massive armies while laughing at the absurdity of galactic war.
 
 # Gameplay Trailer:
-[https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/2675686e-cf0d-48f5-8c41-19898efb9f0(https://www.youtube.com/watch?v=uJU6fWkA12I)
+https://www.youtube.com/watch?v=uJU6fWkA12I
 
 # SteamPage
 https://store.steampowered.com/app/2612580/Exodus__Black_Sun/
@@ -38,7 +38,7 @@ Operation: Harsh Doorstop is more than just a game — it’s a platform for pla
 
 # Gameplay Trailer:
 
-[https://github.com/user-attachments/assets/a0b3a4df-d913-443b-9f85-462a1ed642bf](https://www.youtube.com/watch?v=5rGm5QNZ0zo)
+https://www.youtube.com/watch?v=5rGm5QNZ0zo
 
 
 
@@ -63,7 +63,7 @@ Hone your skills through PvP battle mode.
 Incorporate the in-game items you’ve found into your battles, bringing a new dimension of gameplay.
 
 # Gameplay Video
-[https://github.com/user-attachments/assets/c861e11f-a946-44db-80e2-3ca699188e4c](https://www.youtube.com/watch?v=H2zXC53Z5s4)
+https://www.youtube.com/watch?v=H2zXC53Z5s4
 
 # 4. Dopameme
 In Dopameme, players control weaponized cars driven by monkeys in fast-paced combat arenas. The game combines explosive vehicular combat with a play-to-earn model, rewarding top players in competitive matches using the Dopameme cryptocurrency.
