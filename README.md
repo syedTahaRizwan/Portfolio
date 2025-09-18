@@ -18,6 +18,8 @@ Reviving the Magic of RTS – Classic elements like base-building, unit microman
 With its mix of strategic depth, satirical storytelling, and genre innovation, Exodus: Black Sun offers both long-time RTS fans and new players a chance to experience the excitement of commanding massive armies while laughing at the absurdity of galactic war.
 
 # Gameplay Trailer:
+![thumbnail][<img width="796" height="751" alt="image" src="https://github.com/user-attachments/assets/81b08e52-38b3-4adc-a605-e644e877569d" />]
+
 https://www.youtube.com/watch?v=uJU6fWkA12I
 
 # SteamPage
