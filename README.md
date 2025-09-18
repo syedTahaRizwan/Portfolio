@@ -1,7 +1,6 @@
 # Game-Development-Portfolio
 # Hi, 
-I am a dedicated and passionate individual who believes in the power of hard work and continuous learning. With each passing day, I strive to expand my knowledge and skills, embracing new opportunities to grow both personally and professionally. Joining your esteemed company would provide me with an ideal platform to further enhance my capabilities while contributing to the company's productivity and success. 
-Following are the Projects that I have worked on recently:
+I am a passionate and dedicated game developer with more than 3 years of professional experience creating engaging and optimized projects. I believe in the power of continuous learning and innovation, and I approach every challenge as an opportunity to expand my skills and deliver meaningful results. I strive to combine creativity with technical expertise to bring ideas to life. I strive to combine creativity with technical expertise to bring ideas to life.
 
 # 1. Exodus Black Sun
 Exodus: Black Sun is a satirical sci-fi real-time strategy (RTS) game that both pays homage to the golden era of strategy classics and pushes the genre forward with fresh ideas and bold humor. It combines sharp tactical gameplay with a tongue-in-cheek narrative, offering players both the nostalgic thrill of old-school RTS battles and innovative systems that redefine how strategies are executed.
