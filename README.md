@@ -42,8 +42,7 @@ Operation: Harsh Doorstop is more than just a game — it’s a platform for pla
 
 # Gameplay Trailer:
 
-<img width="796" height="751" alt="image" src="https://github.com/user-attachments/assets/30e23c6b-1190-42a4-b801-3bd6ca9f3a54" />
-
+<img width="1275" height="664" alt="image" src="https://github.com/user-attachments/assets/102d50f1-78fc-43cf-9557-bbde43276e96" />
 
 https://www.youtube.com/watch?v=5rGm5QNZ0zo
 
@@ -70,6 +69,8 @@ Hone your skills through PvP battle mode.
 Incorporate the in-game items you’ve found into your battles, bringing a new dimension of gameplay.
 
 # Gameplay Video
+
+<img width="1266" height="711" alt="OOD" src="https://github.com/user-attachments/assets/0e8881b7-ca09-403a-9a00-13ed8654076b" />
 https://www.youtube.com/watch?v=H2zXC53Z5s4
 
 # 4. Dopameme
