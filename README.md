@@ -6,7 +6,7 @@ This portfolio highlights some of the projects I’ve contributed to, showcasing
 ## 1. Exodus: Black Sun
 
 **Role:** Gameplay & Systems Programmer  
-**Engine:** Unreal Engine 5 | C++ & Blueprints  
+**Technologies Used:** Unreal Engine 5 | C++ & Blueprints  
 
 Exodus: Black Sun is a satirical sci-fi real-time strategy (RTS) game that blends classic large-scale strategy with modern tactical systems.  
 My contributions focused on **gameplay programming, AI, and systems architecture** to support resource-driven warfare and scalable battles.
@@ -35,7 +35,7 @@ https://store.steampowered.com/app/2612580/Exodus__Black_Sun/
 ## 2. Operation: Harsh Doorstop  
 
 **Role:** AI Gameplay Programmer  
-**Engine:** Unreal Engine 4 | C++ & Blueprints  
+**Technologies Used:** Unreal Engine 4 | C++ & Blueprints  
 
 Operation: Harsh Doorstop (OHD) is a community-driven, open-source tactical first-person shooter inspired by titles like *Project Reality* and *Squad*. The project emphasizes teamwork, large-scale battles, and moddability, with a fully open development model and no monetization barriers.  
 
@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=5rGm5QNZ0zo
 ## 3. Order of Dannan  
 
 **Role:** Gameplay Programmer  
-**Engine:** Unreal Engine 5 | C++ & Blueprints  
+**Technologies Used:** Unreal Engine 5 | C++ & Blueprints  
 
 Order of Dannan is a fantasy action RPG built in Unreal Engine, featuring fast-paced combat, level progression, and PvP battles. My work focused on **gameplay mechanics, AI behaviors, animation systems, and bug fixing** to ensure smooth player experiences across multiple levels.  
 
@@ -81,7 +81,7 @@ https://www.youtube.com/watch?v=H2zXC53Z5s4
 ## 4. Dopameme Battle Royale  
 
 **Role:** Gameplay & Systems Programmer  
-**Engine:** Unreal Engine 5 | C++ & Blueprints  
+**Technologies Used:** Unreal Engine 5 | C++ & Blueprints  
 
 Dopameme is a satirical mobile battle royale where players control weaponized cars driven by monkeys in chaotic combat arenas. Beyond its humor, the game featured complex systems for **multiplayer networking, AI, environments, and blockchain integration**.  
 
@@ -104,46 +104,77 @@ This project strengthened my skills in **multiplayer networking, vehicle systems
 ![SS4](https://github.com/user-attachments/assets/8978b1d8-2823-4aed-8f44-e27d40960804)
 ![SS3](https://github.com/user-attachments/assets/4db44686-5959-4966-bdab-14ff8961d744)
 
-# 5. Melody Of The Forgotten
-“Melody of the Forgotten” is a, first-person post-apocalyptic exploration game set in a decaying forest. Players are guided by a mystical bird companion on a quest to find the missing pieces of an ancient bamboo flute. The forest, once full of life, is now withered and silent, its magic lost to time. As players collect flute pieces scattered across different biomes like a swamp, ancient ruins, and a watchtower, they slowly piece together the melody that can restore the land. The bird offers guidance, lore, and subtle emotional cues, functioning both as a narrator and a companion. Once all flute pieces are collected, a cinematic plays that shows the rebirth of the forest as the music returns life to the world."
+## 5. Melody of the Forgotten  
+
+**Role:** Gameplay Programmer  
+**Technologies Used:** Unreal Engine 5 | Blueprints  
+
+*Melody of the Forgotten* is a first-person exploration game set in a post-apocalyptic forest. Guided by a mystical bird companion, players collect fragments of a bamboo flute across diverse biomes to restore life and magic to the land.  
+
+### Key Contributions
+- **Exploration Systems** – Implemented player traversal and interaction mechanics for collecting flute fragments.  
+- **Companion AI** – Developed the bird companion’s guidance system, integrating navigation, narration triggers, and emotional cues.  
+- **Environment Design** – Contributed to building and scripting interactive environments (swamps, ruins, watchtowers).  
+- **Cinematics & Storytelling** – Implemented the final cinematic sequence showing the rebirth of the forest after restoring the flute.  
+- **Optimization** – Ensured smooth first-person controls and performance across large, foliage-heavy levels.  
+
+This project allowed me to combine **environment scripting, AI companion design, and cinematic implementation** to create an exploration experience focused on atmosphere and storytelling.  
 
 https://github.com/user-attachments/assets/6c762d0c-52b0-4267-98c8-4c2cf4e126ea
 
-# 6. NewRealmVerse
-A client-side WebGL virtual world built in Unreal Engine, seamlessly integrated with real-time website transactions.
+## 6. NewRealmVerse  
 
-NewRealmVerse is an immersive browser-based experience where users can explore a virtual art gallery, real estate showroom, and shopping mall directly from their web browser. Unlike traditional Pixel Streaming, it was optimized for client-side WebGL performance, enabling accessibility across devices without server-side rendering.
+**Role:** Gameplay Programmer  
+**Technologies Used:** Unreal Engine | WebGL (Client-Side) | C++ & Blueprints
 
-Key Contributions & Features:
+*NewRealmVerse* is a client-side WebGL virtual world built in Unreal Engine, designed to integrate seamlessly with real-time website transactions. The project delivered an accessible browser-based experience without relying on costly Pixel Streaming infrastructure.  
 
-Developed a fully interactive WebGL environment, ensuring smooth performance and cross-platform accessibility.
-Built real-time website-to-game synchronization.
-Designed persistent interactive environments where players could explore and interact.
-Focused on scalability and performance optimization, ensuring seamless user experience without streaming delays.
-Integrated immersive UI/UX flows, bridging web interfaces with in-game mechanics for a unified experience.
+### Key Contributions
+- **WebGL Integration** – Developed a fully interactive Unreal Engine environment optimized for **client-side WebGL**, ensuring smooth cross-platform performance.  
+- **Scalable Environments** – Designed virtual galleries, showrooms, and shopping spaces optimized for browser accessibility.  
+- **Performance Optimization** – Reduced latency and eliminated server-side rendering costs by optimizing shaders, assets, and memory usage for WebGL delivery.  
+- **Immersive UI/UX** – Integrated intuitive flows that bridged **web interfaces with in-game mechanics**, creating a unified interactive experience.  
+
+This project highlighted my ability to **push Unreal Engine beyond traditional builds**, delivering scalable, interactive, and commercially viable browser-based virtual worlds.  
 
 
 https://github.com/user-attachments/assets/31b21bc1-79b9-47fe-bf7a-4e54668be0de
 
-# 7. Bylor VR Construction Course
-A fully interactive VR training solution built in Unreal Engine for construction safety and tool handling.
-Developed a VR training application that allows workers to practice using construction tools in a safe, immersive environment. The course simulates real-world construction scenarios, enabling hands-on learning with motion controllers and head-mounted displays (HMDs).
+## 7. Bylor VR Construction Course  
 
-Key Contributions & Features:
+**Role:** Unreal Engine VR Developer  
+**Technologies Used:** Unreal Engine | VR (Oculus)  
 
-Designed and developed a VR training framework using Unreal Engine, focusing on realistic tool interactions and physics.
-Implemented interactive modules that simulate construction tasks, equipment usage, and safety procedures.
-Integrated motion controller support for accurate hand-tracking and tool handling.
-Created a scalable system to support additional training modules and scenarios.
-Optimized performance for smooth VR experience, ensuring usability across multiple HMD platforms.
-Enhanced learning engagement and retention through interactive tutorials, feedback systems, and immersive environments.
+*Bylor VR Construction Course* is a fully interactive VR training application built in Unreal Engine, designed to teach construction safety and tool handling in a safe, immersive environment. The system simulates real-world construction scenarios, allowing workers to practice tasks hands-on with motion controllers and head-mounted displays (HMDs).  
+
+### Key Contributions
+- **VR Framework Development** – Built a scalable training framework with modular architecture for adding new construction scenarios and safety modules.  
+- **Realistic Interactions** – Implemented physics-based tool handling, collision responses, and task-specific interactions for drills, hammers, and other construction equipment.  
+- **Motion Controller Integration** – Enabled precise hand-tracking and gesture-based controls to ensure accurate and intuitive VR tool usage.  
+- **Immersive Learning Design** – Designed feedback systems, progress tracking, and interactive tutorials to enhance skill retention and learner engagement.  
+- **Cross-HMD Optimization** – Optimized performance across Oculus and HTC Vive for smooth and comfortable experience.  
+- **Scalability & Safety Simulation** – Created a foundation for expanding into additional training use cases, ensuring the system could adapt to multiple industries.  
+
+This project demonstrated my ability to **merge VR interactivity, physics realism, and performance optimization** into a training tool that delivers both educational and practical value.  
+
 
 https://github.com/user-attachments/assets/d1cc550c-9eb1-4d89-939b-8f43976d0ea4
 
 
 # 8. Fighting Game
-This is a $200 project for my client, It is single pact action game in which player fight with advanced AI. The game is similar to Tekken 3D action You can make combos and Have a Fatality attack (Ultimate Ability). 
+**Role:** Gameplay Programmer
+**Technologies Used:** Unreal Engine 5 | Animations | Blueprints
 
+A single-player 3D action fighting game inspired by classics like Tekken. Players engage in fast-paced combat against advanced AI opponents, utilizing a variety of combo systems, special moves, and an ultimate “Fatality” attack to defeat enemies.
+
+### Key Highlights
+
+- Designed fluid combo mechanics for engaging and skill-based gameplay.
+- Implemented advanced AI behaviors to provide challenging opponent dynamics.
+- Developed an Ultimate Ability (Fatality system) for cinematic finishing moves.
+- Built core gameplay loop focused on fast, responsive combat in a 3D environment.
+
+This project showcases my expertise in combat system design, AI programming, and creating responsive gameplay experiences.
 
 
 
@@ -152,21 +183,36 @@ This is a $200 project for my client, It is single pact action game in which pla
 https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/9fb68387-9e1e-4fec-b61c-4aa6af0c2153
 
 # 9. Pixel Art
-This is a 2D Turn Based action game similar to Rock paper scissors instead we have attack defense and reload mechanism, THere are few characters and weapons that the player can choose. With AI also involved in it.
+**Role:** Gameplay Programmer
+**Technologies Used:** Unreal Engine 5 | Paper2D | Blueprints
 
+2D Turn-Based Action Game is a strategic game inspired by Rock-Paper-Scissors, featuring a unique Attack, Defense, and Reload mechanism. Players select from multiple characters and weapons to compete against AI opponents in turn-based combat.
+
+### Key Contributions
+
+- Turn-Based Combat System – Developed a responsive system allowing players to strategically choose between Attack, Defense, or Reload each turn.
+- Character & Weapon Selection – Implemented multiple characters and weapon types, each with unique stats and abilities to enhance gameplay variety.
+- AI Opponent Design – Created adaptive AI that evaluates player choices and responds strategically, adding challenge and replayability.
+- Game Mechanics Balancing – Fine-tuned the core mechanics to ensure fair and engaging gameplay across different player strategies.
+- UI & Feedback Implementation – Designed intuitive UI elements to display actions, health, and weapon status, providing clear feedback to players.
 
 # Gameplay Video
 https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/1d831207-bba3-4feb-b180-60d77175e557
 
 # 10. EMBERSPACE
-Emberspace is an exciting online 3D multiplayer first-person shooter game set in a captivating Outer Space theme. The game features lobby sessions connected through Steam and includes an innovative in-game NFT marketplace. Players are divided into two categories: Aliens and Elite Force.
+**Role:** Gameplay Programmer
+**Technologies Used:** Unreal Engine | Steam Integration | NFT Marketplace | C++ & Blueprints
 
-In this immersive gameplay experience, scientists have created a highly potent missile capable of annihilating entire planets. The Aliens seek to capture this destructive weapon, while the Elite Force's mission is to defend the missile and eliminate all alien threats. Adding to the challenge, an AI-controlled celestial entity roams the game, mercilessly targeting any species that crosses its path.
+Emberspace is a 3D multiplayer first-person shooter set in a captivating Outer Space environment. Players are divided into Aliens and Elite Force, engaging in high-stakes battles to capture or defend a planet-destroying missile, while navigating threats from an AI-controlled celestial entity.
 
-As players engage in thrilling battles, they have the opportunity to complete specific in-game tasks, earning valuable NFT rewards. These unique digital assets can then be sold on platforms like OpenSea, allowing players to further enhance their gaming experience beyond the virtual world.
+### Key Contributions
 
-Emberspace offers an action-packed and strategic gaming environment where players can immerse themselves in intense battles, seize opportunities for personal progression, and even profit from their accomplishments in the vibrant NFT marketplace.
-
+- **Multiplayer Lobby System** – Developed Steam-based lobby sessions for seamless matchmaking and real-time multiplayer gameplay.
+- **Faction-Based Gameplay** – Implemented team mechanics for Aliens and Elite Force with unique objectives and abilities.
+- **Dynamic AI Threats** – Created an AI-controlled celestial entity that actively challenges players and adds unpredictability to combat scenarios.
+- **In-Game NFT Marketplace** – Integrated NFT rewards for completing objectives, enabling players to trade digital assets on platforms like OpenSea.
+- **Immersive Space Environments** – Designed visually striking outer space maps with interactive elements and strategic combat zones.
+- **Progression & Reward Systems** – Implemented tasks and reward loops to encourage strategic play and player progression.
 # Main Menu:
 
 ![image](https://github.com/syedTahaRizwan/Game-Development-Portfolio/assets/79469095/c24c4ced-531f-4f01-bdb0-05d8f886542e)
