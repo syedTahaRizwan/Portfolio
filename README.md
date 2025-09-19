@@ -12,6 +12,7 @@ Exodus: Black Sun is a satirical sci-fi real-time strategy (RTS) game that blend
 My contributions focused on **gameplay programming, AI, and systems architecture** to support resource-driven warfare and scalable battles.
 
 ### Key Contributions
+- **Multiplayer Systems** – Implemented replication and real-time networking using Epic Online Subsystem Plus i.e., Adding Cross Platform Support (Steam + Epic).  
 - **Core RTS Systems** – Implemented unit control, base-building, and resource management mechanics.  
 - **AI Development** – Designed enemy AI for tactical positioning, adaptive combat behaviors, and resource gathering.  
 - **Combat & Progression** – Built scalable combat systems for diverse unit types and abilities.  
@@ -77,17 +78,22 @@ This project gave me hands-on experience with **AI combat programming, animation
 <img width="1266" height="711" alt="OOD" src="https://github.com/user-attachments/assets/0e8881b7-ca09-403a-9a00-13ed8654076b" />
 https://www.youtube.com/watch?v=H2zXC53Z5s4
 
-# 4. Dopameme
-In Dopameme, players control weaponized cars driven by monkeys in fast-paced combat arenas. The game combines explosive vehicular combat with a play-to-earn model, rewarding top players in competitive matches using the Dopameme cryptocurrency.
+## 4. Dopameme Battle Royale  
 
-Key Contributions & Features:
+**Role:** Gameplay & Systems Programmer  
+**Engine:** Unreal Engine 5 | C++ & Blueprints  
 
-Developed multiplayer gameplay systems with replication and real-time networking.
-Designed diverse maps (Egyptian pyramids, winter landscapes, cityscapes, forests), optimized for smooth mobile performance.
-Implemented customizable vehicles with mounted weapons (turrets, miniguns, rocket systems).
-Built an AI-driven opponent system with unique driving and combat behaviors.
-Created a satirical UI/UX with meme-inspired visuals and explosive effects to reinforce brand identity.
-Supported both free-to-play and crypto-competitive modes, balancing fun accessibility with blockchain incentives.
+Dopameme is a satirical mobile battle royale where players control weaponized cars driven by monkeys in chaotic combat arenas. Beyond its humor, the game featured complex systems for **multiplayer networking, AI, environments, and blockchain integration**.  
+
+### Key Contributions
+- **Multiplayer Systems** – Implemented replication and real-time networking for competitive mobile play using Epic Online Subsystem.  
+- **Vehicle Mechanics & Combat** – Built customizable vehicles equipped with turrets, miniguns, and homing missile systems.  
+- **AI Development** – Created AI-driven opponents with distinct driving and combat behaviors.  
+- **Environments** – Designed and optimized diverse maps (Egyptian pyramids, winter landscapes, cityscapes, forests) for smooth mobile performance.  
+- **UI/UX Design** – Developed meme-inspired, satirical UI elements and explosive effects to match the brand identity.  
+- **Blockchain Integration** – Connected in-game system with Dopameme cryptocurrency wallets, supporting prize pools, competitive lobbies, and play-to-earn mode.  
+
+This project strengthened my skills in **multiplayer networking, vehicle systems, AI combat design, and mobile optimization**, while also exploring blockchain integration within Unreal Engine.  
 
 # Gameplay Images 
 
