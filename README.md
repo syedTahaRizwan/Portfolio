@@ -33,12 +33,12 @@ https://store.steampowered.com/app/2612580/Exodus__Black_Sun/
 
 ## 2. Operation: Harsh Doorstop  
 
-**Role:** AI & Gameplay Programmer  
-**Engine:** Unreal Engine 4/5 | C++ & Blueprints  
+**Role:** AI Gameplay Programmer  
+**Engine:** Unreal Engine 4 | C++ & Blueprints  
 
 Operation: Harsh Doorstop (OHD) is a community-driven, open-source tactical first-person shooter inspired by titles like *Project Reality* and *Squad*. The project emphasizes teamwork, large-scale battles, and moddability, with a fully open development model and no monetization barriers.  
 
-### 🔹 Key Contributions
+### Key Contributions
 - **AI Vehicle Interaction** – Implemented logic for AI to detect unoccupied vehicles, locate the driver’s seat, enter, and start engines.  
 - **GOAP System Extensions** – Expanded Goal-Oriented Action Planning to support complex AI actions and priorities.  
 - **Revive & Healing Systems** – Added AI logic to revive incapacitated players/bots and use medical bags, integrating with perception, inventory, and cooldown systems.  
@@ -54,25 +54,23 @@ https://www.youtube.com/watch?v=5rGm5QNZ0zo
 
 
 
-# 3. Order Of Dannan
-Welcome to our immersive fantasy game Order of Danann.
-Get ready for fast, battle intense gameplay never before experienced in an isometric game. Dash through the world map dodging enemy attacks, and taking down vampires with your magic empowered weapons.
+## 3. Order of Dannan  
 
-According to legend, before the rise of humans the Tuathe Dé Danann ruled over the emerald isle.
-As descendants of the goddess Danu they were a divine race known for their exceptional beauty, magical prowess, and advanced knowledge.
-These mythical beings possessed extraordinary powers and used these to build a large advanced civilization.
+**Role:** Gameplay Programmer  
+**Engine:** Unreal Engine 5 | C++ & Blueprints  
 
-However, their reign was ultimately disrupted by the arrival of a dark clan of vampires known as the House of Abhartach.
-In the decisive Battle of Tara, the Tuatha Dé Danann were defeated and all slaughtered save a few infants enshrined in enchanted crystal.
-Preserved to come forth at a later time to conquer the vampire force, these children would be known as the Order of Danann.
+Order of Dannan is a fantasy action RPG built in Unreal Engine, featuring fast-paced combat, level progression, and PvP battles. My work focused on **gameplay mechanics, AI behaviors, animation systems, and bug fixing** to ensure smooth player experiences across multiple levels.  
 
-# 16 Action Packed Levels
-Travel through 16 fast and fun levels, designed to be highly replayable through several character options and item upgrades.
-Find hidden items that can be used to help in your quest. Play with friends to enhance your gaming experience.
+### 🔹 Key Contributions
+- **Level Transition System** – Designed and implemented a mechanic where players use sewer manholes and ladder combo inputs to transition seamlessly between levels.  
+- **AI Behavior Enhancements** – Modified AI to attack while running, integrated spear attacks, and optimized combat responsiveness.  
+- **Animation Systems** – Updated animation graphs for upper-body blending and implemented IK retargeting for diverse attack animations.  
+- **Combat Systems** – Expanded gameplay abilities with distinct logic for light, heavy, and projectile attacks, improving scalability and readability.  
+- **Wave & PvP AI Systems** – Built an optimized wave spawning system and designed PvP AI mechanics to prioritize attacks dynamically.  
+- **Bug Fixing** – Identified and resolved 50+ issues related to movement, combat, AI behavior, and level transitions.  
 
-# PvP Battle
-Hone your skills through PvP battle mode.
-Incorporate the in-game items you’ve found into your battles, bringing a new dimension of gameplay.
+This project gave me hands-on experience with **AI combat programming, animation blending, and scalable combat systems**, while contributing to an ambitious action RPG.  
+
 
 # Gameplay Video
 
