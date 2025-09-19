@@ -31,18 +31,21 @@ https://www.youtube.com/watch?v=uJU6fWkA12I
 https://store.steampowered.com/app/2612580/Exodus__Black_Sun/
 
 
-# 2. Operation Harsh DoorStop
-Operation: Harsh Doorstop (OHD) is a community-driven, open-source tactical first-person shooter developed on Unreal Engine. Drawing inspiration from genre-defining titles like Project Reality and Squad, OHD delivers a grounded military simulation experience that emphasizes teamwork, strategy, and immersion.
-What sets OHD apart is its commitment to accessibility and community creativity. The game is completely free-to-play, with no microtransactions, paid DLCs, or hidden monetization systems. Instead, it empowers players and developers through full modding support and open development tools, allowing anyone to contribute content, design custom game modes, or expand gameplay systems.
+## 2. Operation: Harsh Doorstop  
 
-Core features include:
+**Role:** AI & Gameplay Programmer  
+**Engine:** Unreal Engine 4/5 | C++ & Blueprints  
 
-Authentic Tactical Gameplay – Squad-based combat with an emphasis on communication, coordination, and realism.
-Modding & Open Development – Full access to modding tools, open-source elements, and community-driven updates.
-Military Simulation – A high-quality tactical FPS experience without financial barriers or restrictive content models.
-Community-Centric Vision – Built with direct player feedback and contributions at the heart of development.
-Operation: Harsh Doorstop is more than just a game — it’s a platform for players, developers, and modders to shape the future of tactical shooters together, keeping the spirit of community-driven development alive.
+Operation: Harsh Doorstop (OHD) is a community-driven, open-source tactical first-person shooter inspired by titles like *Project Reality* and *Squad*. The project emphasizes teamwork, large-scale battles, and moddability, with a fully open development model and no monetization barriers.  
 
+### 🔹 Key Contributions
+- **AI Vehicle Interaction** – Implemented logic for AI to detect unoccupied vehicles, locate the driver’s seat, enter, and start engines.  
+- **GOAP System Extensions** – Expanded Goal-Oriented Action Planning to support complex AI actions and priorities.  
+- **Revive & Healing Systems** – Added AI logic to revive incapacitated players/bots and use medical bags, integrating with perception, inventory, and cooldown systems.  
+- **Multiplayer Support** – Ensured AI revive/healing actions replicated correctly across networked sessions, handling latency and authority checks.  
+- **Optimization** – Refactored goal/action definitions and improved decision-making evaluation for large-scale scenarios.  
+
+This project strengthened my expertise in **AI architecture, Unreal Engine networking, and large-scale gameplay systems**, while working in a complex open-source codebase. 
 # Gameplay Trailer:
 
 <img width="1275" height="664" alt="image" src="https://github.com/user-attachments/assets/102d50f1-78fc-43cf-9557-bbde43276e96" />
