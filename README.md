@@ -1,20 +1,24 @@
-# Game-Development-Portfolio
-# Hi, 
-I am a passionate and dedicated game developer with more than 3 years of professional experience creating engaging and optimized projects. I believe in the power of continuous learning and innovation, and I approach every challenge as an opportunity to expand my skills and deliver meaningful results. I strive to combine creativity with technical expertise to bring ideas to life. I strive to combine creativity with technical expertise to bring ideas to life.
+# Game Development Portfolio
+Hi 👋  
+I’m a Gameplay & Systems Programmer with 3+ years of professional experience building games and interactive simulations in **Unreal Engine (C++ & Blueprints)**. I specialize in **gameplay programming, AI systems, multiplayer, and cross-platform optimization** for PC, mobile, and VR.  
+I approach every project as an opportunity to solve complex problems and create engaging player experiences, combining creativity with strong technical foundations. My work spans from **RTS and battle royale shooters** to **VR training simulations** and **blockchain-integrated mobile games**.  
+This portfolio highlights some of the projects I’ve contributed to, showcasing my focus on **system design, performance, and scalable gameplay mechanics**.
+## 1. Exodus: Black Sun
 
-# 1. Exodus Black Sun
-Exodus: Black Sun is a satirical sci-fi real-time strategy (RTS) game that both pays homage to the golden era of strategy classics and pushes the genre forward with fresh ideas and bold humor. It combines sharp tactical gameplay with a tongue-in-cheek narrative, offering players both the nostalgic thrill of old-school RTS battles and innovative systems that redefine how strategies are executed.
+**Role:** Gameplay & Systems Programmer  
+**Engine:** Unreal Engine 5 | C++ & Blueprints  
 
-At its core, Exodus: Black Sun is about waging a relentless resource war across hostile alien worlds. Players command armies in large-scale, fast-paced battles where every decision — from resource management to tactical positioning — has meaningful consequences. Unlike traditional RTS games, Exodus: Black Sun introduces new mechanics that give players unprecedented control over how their armies fight, adapt, and evolve throughout a match.
+Exodus: Black Sun is a satirical sci-fi real-time strategy (RTS) game that blends classic large-scale strategy with modern tactical systems.  
+My contributions focused on **gameplay programming, AI, and systems architecture** to support resource-driven warfare and scalable battles.
 
-Key features include:
+### Key Contributions
+- **Core RTS Systems** – Implemented unit control, base-building, and resource management mechanics.  
+- **AI Development** – Designed enemy AI for tactical positioning, adaptive combat behaviors, and resource gathering.  
+- **Combat & Progression** – Built scalable combat systems for diverse unit types and abilities.  
+- **Optimization** – Profiled and optimized large-scale RTS battles for stable performance with high unit counts.  
+- **Systems Collaboration** – Prototyped and implemented experimental mechanics in collaboration with designers.  
 
-A Satirical Sci-Fi Setting – A darkly comedic take on interstellar war, filled with eccentric factions, sharp writing, and a satirical spin on classic RTS tropes.
-Innovative Tactical Systems – Fresh mechanics that let players dictate not just what units they build, but how those units behave on the battlefield, supporting diverse play-styles.
-Dynamic Game Modes – From traditional skirmishes to narrative-driven campaigns and experimental multiplayer variants, there’s a mode for every type of strategist.
-Resource Warfare Reimagined – Gather, manage, and weaponize resources in ways that add layers of strategy and unpredictability to every encounter.
-Reviving the Magic of RTS – Classic elements like base-building, unit micromanagement, and large-scale battles return, enhanced by modern systems and quality-of-life improvements.
-With its mix of strategic depth, satirical storytelling, and genre innovation, Exodus: Black Sun offers both long-time RTS fans and new players a chance to experience the excitement of commanding massive armies while laughing at the absurdity of galactic war.
+This project strengthened my expertise in **gameplay architecture, AI decision-making, and optimization for large-scale simulations**.
 
 # Gameplay Trailer:
 <img width="796" height="751" alt="image" src="https://github.com/user-attachments/assets/581576b7-be23-44a1-a2a6-59ca4ee4868e" />
